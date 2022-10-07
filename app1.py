@@ -10,7 +10,7 @@ class User():
         User.id += 1
 
 
-a = User('a')
+a = User('a')# this is for what?
 print(a.id)
 b = User('b')
 print(b.id)
