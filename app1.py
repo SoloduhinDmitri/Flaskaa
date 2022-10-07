@@ -12,7 +12,7 @@ class User():
 
 a = User('a')# this is for what?
 print(a.id)
-b = User('b')
+b = User('b')# and this for what?
 print(b.id)
 app1 = flask.Flask(__name__)
 
